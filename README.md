@@ -2,6 +2,7 @@
 ### 使う時メモ
 - textureViewからbitmap作成してbase64に変換
 - オートフォーカス効いてないっぽい+無駄なコードあるので修正必要
+- Camera2Viewでカメラ起動または撮影工程内でエラー発生時の処理が未完成なので修正必要
 ### permission_dispatcher
 - permissionはpermission_dispatcher使用
 - permission_dispatcherのアノテーション使っているメソッドはパブリックじゃないとダメっぽい
